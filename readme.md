@@ -9,7 +9,7 @@ colBarLib is a Python software library that provides functionality for creating 
 To install colBarLib, you can use pip:
 
     ```bash
-    pip install -e colBarLib
+    pip install -e .
     ```
 
 ## Usage
